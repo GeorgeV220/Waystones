@@ -1,0 +1,17 @@
+Options:
+  debug:
+    load: true
+    save: true
+    create: true
+    useless info: false
+  waystone:
+    generate: false
+    display name: "%name%"
+    lores:
+      - "Location: "
+      - " X: %x%"
+      - " Y: %y%"
+      - " Z: %z%"
+      - "Price Type: %type%"
+      - "Price: %price%"
+      - "Click to teleport"

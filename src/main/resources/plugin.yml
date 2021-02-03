@@ -1,0 +1,4 @@
+name: Waystones
+version: ${project.version}
+main: com.georgev22.waystones.Waystones
+api-version: 1.16
